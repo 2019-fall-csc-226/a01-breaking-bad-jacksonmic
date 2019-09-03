@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Change this to your name
-# Username: heggens             TODO: Change this to your username
+# Author: Micheala Jackson      TODO: Change this to your name
+# Username: jacksonmic            TODO: Change this to your username
 #
 # Assignment: A01
 #
