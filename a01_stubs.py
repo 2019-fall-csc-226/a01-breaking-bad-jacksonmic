@@ -18,11 +18,35 @@
 # (Required) Task 1
 # TODO Ask user for their birth year
 
+my_input = int(input('what is your birth year?'))
+print(my_input)
+
+
 
 # TODO Check the year using if conditionals, and print the correct animal for that year.
 # See the a01_pets.py for examples
-
-
+if my_input == int(1996):
+  print("Your chinese zodiac is a rat")
+if my_input == int(1997):
+   print("Your chinese zodiac is an ox")
+if my_input == int(1998):
+   print("Your chinese zodiac is a tiger")
+if my_input == int(1995):
+   print("Your zodiac is a pig")
+if my_input == int(1994):
+   print("Your zodiac is a dog")
+if my_input == int(1993):
+   print("Your zodiac is rooster")
+if my_input == int(1992):
+   print("Your zodiac is a monkey")
+if my_input == int(1991):
+    print("Your zodiac is a goat")
+if my_input == int(1990):
+    print("Your zodiac is a horse")
+if my_input == int(1989):
+    print("Your zodiac is a snake")
+if my_input == int(1988):
+    print("Your zodiac is a dragon")
 ######################################################################
 # (Required) Task 2
 # TODO Ask the user for their friend's birth year
